@@ -1,0 +1,20 @@
+div {
+    display: flex;
+    padding: 30px;
+    background-color: rgb(201, 219, 181);
+    font-size: 30px;
+    border: solid 1px;
+    border-color: azure;
+    align-items: center;
+    
+}
+table {
+    border: solid 1px;
+}
+tr {
+    border: solid 1px;
+}
+td {
+    border: solid 1px;
+}
+
